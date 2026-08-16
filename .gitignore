@@ -1,0 +1,21 @@
+# AI-generated working docs
+slop-docs/
+beggining.md
+
+# KiCad
+hw/t1conv-backups/
+hw/*.kicad_prl
+hw/*-bak
+hw/*.bak
+hw/*.bak?
+hw/_autosave-*
+hw/~*.lck
+hw/fp-info-cache
+hw/*.kicad_pcb-bak
+hw/*.kicad_sch-bak
+hw/*.dsn
+hw/*.ses
+
+# OS/editor
+.DS_Store
+*~
