@@ -1,5 +1,6 @@
 # t1conv
 
+Current Progress: Finished schematics, workinf on layout
 100BASE-T1 ↔ 100BASE-TX media converter + dual CAN FD/USB adapter on one
 board.
 
