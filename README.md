@@ -36,7 +36,7 @@ The images below are exported from the current KiCad hierarchy.
 
 ![Power schematic](img/power-sheet.png)
 
-### MCU and USB
+### MCU
 
 ![MCU and USB schematic](img/mcu-sheet.png)
 
